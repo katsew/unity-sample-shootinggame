@@ -1,12 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Emitter.cs">
     <Files>
-      <File FileName="Assets/Scripts/Spaceship.cs" Line="16" Column="47" />
-      <File FileName="Assets/Scripts/Player.cs" Line="43" Column="3" />
-      <File FileName="Assets/Scripts/Enemy.cs" Line="41" Column="23" />
-      <File FileName="Assets/Scripts/Explosion.cs" Line="8" Column="24" />
-      <File FileName="Assets/Scripts/DestroyArea.cs" Line="8" Column="26" />
+      <File FileName="Assets/Scripts/Background.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/Emitter.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="59" Column="4" />
+      <File FileName="Assets/Scripts/Spaceship.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="20" Column="4" />
+      <File FileName="Assets/Scripts/Manager.cs" Line="17" Column="59" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
